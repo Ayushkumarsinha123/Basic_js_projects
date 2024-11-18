@@ -1,0 +1,35 @@
+
+.red {
+  background-color: red;
+  padding: 50px;
+  font-size: xx-large;
+}
+
+.blue {
+  background-color: blue;
+  padding: 50px;
+  font-size: xx-large;
+}
+
+.green{
+  background-color: green;
+  padding: 50px;
+  font-size: xx-large;
+}
+
+.random {
+  background-color: azure;
+  padding: 50px;
+  font-size: xx-large;
+
+}
+
+button {
+  border-radius: 20px;
+  margin: 10px;
+  
+}
+
+.btn {
+  font-style: italic;
+}
